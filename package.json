@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "chicken:convert"
   },
-  "repository": "https://github.com/atom/chicken",
+  "repository": "https://github.com/SuaYoo/atom-chicken",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
