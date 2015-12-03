@@ -1,0 +1,1 @@
+Chicken = require '../lib/chicken'

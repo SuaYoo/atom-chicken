@@ -1,0 +1,19 @@
+{
+  "name": "chicken",
+  "main": "./lib/chicken",
+  "version": "0.0.0",
+  "description": "Chicken chicken chicken chicken chicken chicken",
+  "keywords": [
+    "chicken"
+  ],
+  "activationCommands": {
+    "atom-workspace": "chicken:convert"
+  },
+  "repository": "https://github.com/atom/chicken",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
